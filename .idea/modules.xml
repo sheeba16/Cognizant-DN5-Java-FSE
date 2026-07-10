@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant-DN5-Java-FSE.iml" filepath="$PROJECT_DIR$/.idea/Cognizant-DN5-Java-FSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-02-Data Structures and Algorithms/Exercise-2-E-commerce Platform Search Function/Exercise-2-E-commerce Platform Search Function.iml" filepath="$PROJECT_DIR$/Module-02-Data Structures and Algorithms/Exercise-2-E-commerce Platform Search Function/Exercise-2-E-commerce Platform Search Function.iml" />
     </modules>
   </component>
 </project>
