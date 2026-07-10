@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Module-02-Data Structures and Algorithms/Exercise-7– Financial Forecasting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-1-SettingUpJUnit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-3 – Assertions in JUnit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-4-AAA-SetupTeardown" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
