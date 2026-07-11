@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-3 – Assertions in JUnit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-4-AAA-SetupTeardown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Mockito-Exercise-1-MockingStubbing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Mockito-Exercise-2-VerifyingInteractions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

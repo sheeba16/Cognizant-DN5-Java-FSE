@@ -1,4 +1,4 @@
-package mockitoexercise1;
+package mockitoexercise2;
 
 public class MyService {
     private ExternalApi externalApi;
