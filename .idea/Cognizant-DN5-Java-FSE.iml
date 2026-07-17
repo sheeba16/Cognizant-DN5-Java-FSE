@@ -11,10 +11,15 @@
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Exercise-4-AAA-SetupTeardown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Mockito-Exercise-1-MockingStubbing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-04-TDD-JUnit-Mockito/Mockito-Exercise-2-VerifyingInteractions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-05–SLF4J Logging Framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module -05-SLF4J Logging Framework/Exercise-1-Logging" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="junit.jupiter" level="project" />
     <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.30" level="project" />
+    <orderEntry type="library" name="logback-core-1.2.3" level="project" />
+    <orderEntry type="library" name="logback-classic-1.2.3" level="project" />
   </component>
 </module>
